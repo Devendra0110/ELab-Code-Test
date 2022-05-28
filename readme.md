@@ -14,3 +14,10 @@ it takes the field `fileName` from `query-params`.
 # Dependencies
 ## 1.ExpressJs@^4.18.1
 ## 2.Multer@^1.4.4
+
+
+# Before start
+## install the dependencies using `npm i`
+
+# How to Run
+## run script `npm run start` to start the server
